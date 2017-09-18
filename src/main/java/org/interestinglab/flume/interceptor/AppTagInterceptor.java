@@ -1,4 +1,4 @@
-package com.lecloud.oi.flume.interceptor;
+package org.interestinglab.flume.interceptor;
 
 import java.util.List;
 import java.util.Map;
